@@ -1,0 +1,115 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "⚓",
+  "titre": "Escapade relaxante à Gdansk",
+  "budget_total": "630 €",
+  "duree": "4 jours",
+  "temps_vol": "4h05 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Gdansk",
+      "legende": "Après votre vol, installez-vous confortablement et plongez dans l'atmosphère unique de la Vieille Ville de Gdansk. Flânez le long de la Longue Rue et découvrez l'architecture hanséatique. Une première journée légère pour s'acclimater à cette charmante ville portuaire.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Gdansk (GDN) et transfert vers le centre-ville. Le trajet en train ou bus prend environ 30-40 minutes.",
+        "<strong>🛏️</strong>: Installation à votre hôtel et moment de détente pour vous rafraîchir et vous préparer à l'exploration.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans la Vieille Ville (Długi Targ et Długa Ulica). Admirez les façades colorées et l'ambiance médiévale de ce quartier historique."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le train SKM relie l'aéroport au centre-ville en environ 30 minutes. Les bus sont aussi une option économique et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⚓",
+      "titre": "Immersion maritime et vue panoramique",
+      "legende": "Explorez le passé maritime de Gdansk au Musée National Maritime, puis profitez d'une croisière paisible sur la Motława pour admirer la ville sous un autre angle. Terminez par une vue imprenable sur la cité et ses environs.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🚢</strong>: Visite du Musée National Maritime (Ośrodek Kultury Morskiej). Découvrez l'histoire portuaire de la ville et ses trésors maritimes fascinants.",
+        "<strong>🛥️</strong>: Croisière relaxante sur la rivière Motława. Laissez-vous porter par les eaux et admirez les monuments emblématiques depuis le fleuve, une perspective unique.",
+        "<strong>🎡</strong>: Montée à la Grande Roue AmberSky. Profitez d'une vue panoramique spectaculaire sur Gdansk et ses environs, idéal au coucher du soleil."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce photo",
+          "texte": "La vue depuis la Grande Roue AmberSky est particulièrement belle au crépuscule, offrant des clichés mémorables de la ville illuminée."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Art urbain et évasion verte",
+      "legende": "Plongez dans l'univers artistique du quartier de Zaspa avec ses fresques murales, puis échappez-vous dans la nature luxuriante du Parc Oliwa. Terminez la journée par un moment de pure relaxation pour recharger les batteries.",
+      "lieu": "Gdansk / Oliwa",
+      "activites": [
+        "<strong>🖼️</strong>: Découverte des fresques murales de Zaspa. Ce quartier est une galerie d'art à ciel ouvert avec des œuvres impressionnantes et colorées.",
+        "<strong>🌳</strong>: Promenade apaisante au Parc Oliwa et visite de la Cathédrale d'Oliwa. Profitez de la sérénité des jardins et de l'architecture baroque.",
+        "<strong>🧖‍♀️</strong>: Détente aux thermes ou spa local. Offrez-vous un moment de bien-être pour recharger les batteries après ces journées de découverte."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès Oliwa",
+          "texte": "Le quartier d'Oliwa est facilement accessible depuis le centre de Gdansk en tram ou en train SKM, offrant un trajet rapide et agréable."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Douce matinée et retour",
+      "legende": "Profitez d'une dernière matinée pour flâner, faire quelques emplettes ou revisiter un lieu coup de cœur avant de prendre le chemin de l'aéroport. Un dernier café pour savourer l'ambiance de Gdansk avant le départ.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛍️</strong>: Matinée libre pour le shopping de souvenirs ou une dernière balade. Profitez des petites boutiques d'ambre ou des marchés locaux.",
+        "<strong>☕</strong>: Petit-déjeuner typique dans un café local. Savourez les spécialités polonaises avant votre départ, comme un délicieux pierogi.",
+        "<strong>🛫</strong>: Transfert vers l'aéroport de Gdansk (GDN) et vol retour vers Paris, la tête pleine de souvenirs."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs d'ambre",
+          "texte": "Gdansk est réputée pour son ambre. Vous trouverez de nombreuses boutiques proposant des bijoux et objets uniques, parfaits pour des souvenirs authentiques."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 198 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20 €/pers (pass 4 jours)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 140 €/pers (35€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 210 €/pers (70€/nuit en 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Décembre (marchés de Noël)", "symbole": "🎄" }
+  ],
+  "infos_pratiques": [
+    { "titre": "De mai à septembre, les températures à Gdansk sont douces (15-25°C). Prévoir une veste légère et un parapluie.", "symbole": "☔" },
+    { "titre": "La monnaie est le Zloty polonais (PLN). Les cartes bancaires sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Le réseau de tram et de bus est efficace. Des tickets journaliers ou des cartes de transport sont disponibles pour faciliter vos déplacements.", "symbole": "🚌" },
+    { "titre": "Le polonais est la langue officielle. L'anglais est parlé dans les zones touristiques, les hôtels et les restaurants.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-GDN/2026-06-10/2026-06-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Pologne", "url": "https://www.poland.travel/fr/villes/gdansk", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "ZTM Gdansk", "url": "https://ztm.gda.pl/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Gdansk", "url": "https://www.meteo.fr/previsions-meteo-pologne/gdansk/ville-2975308", "symbole": "🌤️" }
+  ]
+}
